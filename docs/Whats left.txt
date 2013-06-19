@@ -1,0 +1,7 @@
+-Get CS6 on dev machine (Brando),
+-Update SRS docs,
+-Add in more images to orders with only 2 or less,
+-Add the new extended library and figure out new gestures,
+-Redesign the sidebar,
+-Give more frames to each image (120 or so)
+-Add in magnitude circles to scaling side
